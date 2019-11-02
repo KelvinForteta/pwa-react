@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-pwa-test/static/css/main.211f08f0.chunk.css",
+    "main.js": "/react-pwa-test/static/js/main.1193c51d.chunk.js",
+    "main.js.map": "/react-pwa-test/static/js/main.1193c51d.chunk.js.map",
+    "runtime-main.js": "/react-pwa-test/static/js/runtime-main.255739ae.js",
+    "runtime-main.js.map": "/react-pwa-test/static/js/runtime-main.255739ae.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/react-pwa-test/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.c2f0d1c3.chunk.js": "/react-pwa-test/static/js/2.c2f0d1c3.chunk.js",
+    "static/js/2.c2f0d1c3.chunk.js.map": "/react-pwa-test/static/js/2.c2f0d1c3.chunk.js.map",
+    "index.html": "/react-pwa-test/index.html",
+    "precache-manifest.81b5942ed74c3f1df5bcd9d39f522d66.js": "/react-pwa-test/precache-manifest.81b5942ed74c3f1df5bcd9d39f522d66.js",
+    "service-worker.js": "/react-pwa-test/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/react-pwa-test/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.211f08f0.chunk.css.map": "/react-pwa-test/static/css/main.211f08f0.chunk.css.map",
+    "static/media/Jumbotron.css": "/react-pwa-test/static/media/bg.71f357d4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.255739ae.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.c2f0d1c3.chunk.js",
+    "static/css/main.211f08f0.chunk.css",
+    "static/js/main.1193c51d.chunk.js"
+  ]
+}
